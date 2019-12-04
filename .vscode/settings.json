@@ -1,3 +1,8 @@
 {
-    "python.pythonPath": "/Users/erinkelley/.local/share/virtualenvs/tunr_django-olVIdSm9/bin/python"
+    "python.pythonPath": "/Users/dallalin2/.pyenv/versions/3.7.4/bin/python",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#5A1310",
+        "titleBar.activeBackground": "#7F1A16",
+        "titleBar.activeForeground": "#FEFBFB"
+    }
 }
